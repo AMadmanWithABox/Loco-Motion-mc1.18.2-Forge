@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "locomotion:block/end_portal_ns"
+    },
+    "axis=z": {
+      "model": "locomotion:block/end_portal_ew"
+    }
+  }
+}

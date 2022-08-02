@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "priority": 1100,
+  "package": "com.fcs.locomotion.foundation.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "refmap": "locomotion.refmap.json",
+  "mixins": [],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
